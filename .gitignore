@@ -1,0 +1,16 @@
+# Data files (too large for GitHub)
+DoA data/
+processed_data/segments_cache.npz
+
+# Generated analysis results
+temp*_analysis.*
+temp*_results.csv
+
+# Python
+__pycache__/
+*.pyc
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
